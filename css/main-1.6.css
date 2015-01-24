@@ -829,6 +829,14 @@ div.bp .column p {
     line-height: 180%;
 }
 
+div.center
+{
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .hr-t {
     margin: 80px auto 0 auto;
     width: 97%;
